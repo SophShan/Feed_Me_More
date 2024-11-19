@@ -5,19 +5,19 @@ A 2D side-scroller game developed using Unity and C# in Visual Studio. This game
 
 #### Below is game play of when loading up the game and beginning to play:
 <video controls>
-	  <source src="[Gameplay1.mov](https://github.com/SophShan/DontFeedMe/blob/main/Gameplay1.mov)" type="video/mov">
+	 <video src="https://github.com/SophShan/Gameplay1.mov" width="352" height="720"></video>
 	Your browser does not support the video.
 </video>
 
 #### Below shows game play of the user touching a deadly obstacle and losing:
 <video controls>
-	  <source src="[Gameplay2.mov](https://github.com/SophShan/DontFeedMe/blob/main/Gameplay2.mov)" type="video/mov">
+	  <source src="[Gameplay2.mov](https://github.com/SophShan/DontFeedMe/blob/main/Gameplay2.mov)" type="video/mp4">
 	Your browser does not support the video.
 </video>
 
 #### Below shows how going out of bounds causes user to lose the game: 
 <video controls>
-	  <source src="[./Gameplay3.mov](https://github.com/SophShan/DontFeedMe/blob/main/Gameplay3.mov)" type="video/mov">
+	  <source src="https://github.com/SophShan/Gameplay3.mov" type="video/mp4">
 	Your browser does not support the video.
 </video>
 
