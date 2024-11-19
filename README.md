@@ -4,10 +4,11 @@ A 2D side-scroller game developed using Unity and C# in Visual Studio. This game
 # Videos of the Gameplay
 
 #### Below is game play of when loading up the game and beginning to play:
-<video controls>
+[<video controls>
 	 <video src="https://github.com/SophShan/Gameplay1.mov" width="352" height="720"></video>
 	Your browser does not support the video.
-</video>
+</video>](https://github.com/user-attachments/assets/1806fda4-5037-4e48-95d3-140ba780728e
+)
 
 #### Below shows game play of the user touching a deadly obstacle and losing:
 <video controls>
