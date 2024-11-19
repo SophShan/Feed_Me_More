@@ -4,13 +4,22 @@ A 2D side-scroller game developed using Unity and C# in Visual Studio. This game
 # Videos of the Gameplay
 
 #### Below is game play of when loading up the game and beginning to play:
-<video src="https://user-images.githubusercontent.com/Gameplay1.mov"></video>
+<video controls>
+	  <source src="/docs/assets/Gameplay1.mov" type="video/mp4">
+	Your browser does not support the video.
+</video>
 
 #### Below shows game play of the user touching a deadly obstacle and losing:
-<video src="https://user-images.githubusercontent.com/Gameplay2.mov"></video>
+<video controls>
+	  <source src="/docs/assets/Gameplay2.mov" type="video/mp4">
+	Your browser does not support the video.
+</video>
 
 #### Below shows how going out of bounds causes user to lose the game: 
-<video src="https://user-images.githubusercontent.com/Gameplay3.mov"></video>
+<video controls>
+	  <source src="/docs/assets/Gameplay3.mov" type="video/mp4">
+	Your browser does not support the video.
+</video>
 
 # Images of Start, Game Over and Instruction Screen
 ![Game Start Screen](Gamestart.png)
