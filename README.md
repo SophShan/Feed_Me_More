@@ -46,6 +46,6 @@ For the background image: <a href="https://free-game-assets.itch.io/ocean-and-cl
 
 For the seeds: <a href="https://hudoyudo.itch.io/fantasy-seeds">See Here</a>
 
-For the soundtrack: <a href="https://tallbeard.itch.io/three-red-hearts-prepare-to-dev>See Here</a>
+For the soundtrack: <a href="https://tallbeard.itch.io/three-red-hearts-prepare-to-dev">See Here</a>
 
 
