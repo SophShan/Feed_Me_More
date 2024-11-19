@@ -6,8 +6,8 @@ A 2D side-scroller game developed using Unity and C# in Visual Studio. This game
 <video src="Gameplay1"></video>
 
 # Images of Start, Game Over and Instruction Screen
-![Game Start Screen](GameStart)
+![Game Start Screen](GameStart.png)
 
-![Game Instructions Screen](Instructions)
+![Game Instructions Screen](Instructions.png)
 
-![Game Over Screen](Gameover)
+![Game Over Screen](Gameover.png)
